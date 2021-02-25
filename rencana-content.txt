@@ -7,5 +7,7 @@ Rencana konten sigit
 - Framework Javascript
   * Angular
   * React
-- PHP Framework
+- PHP Frameworks
   * Laravel
+- Phyton
+- Data Science
