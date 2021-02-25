@@ -9,3 +9,4 @@ Rencana konten sigit
 - PHP Frameworks
   * Laravel
 - Phyton
+- Data Science
