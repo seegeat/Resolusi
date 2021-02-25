@@ -5,7 +5,8 @@ Rencana konten sigit
 - Everyday Learning Online
 - BMM
 - Framework Javascript
-  * ReactNative
+  * Angular
+  * React
 - PHP Frameworks
   * Laravel
 - Phyton
